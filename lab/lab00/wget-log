@@ -1,0 +1,79 @@
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 16:59:45--  (try: 6)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 16:59:51--  (try: 7)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 16:59:58--  (try: 8)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:00:06--  (try: 9)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:08:33--  (try:10)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:08:43--  (try:11)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:08:53--  (try:12)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:09:03--  (try:13)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:09:13--  (try:14)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:09:23--  (try:15)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:09:33--  (try:16)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:09:43--  (try:17)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:09:54--  (try:18)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:10:04--  (try:19)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2025-10-27 17:10:14--  (try:20)  http://composingprograms.com/shakespeare.txt
+Connecting to composingprograms.com (composingprograms.com)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Giving up.
+
